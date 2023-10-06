@@ -13,7 +13,7 @@ Também desenvolvemos um bot para WhatsApp, que encaminha trilhas de conheciment
 
 ### Para testar nosso bot
 
-Só mandar um "oi" para +12313593670
+Só mandar um "oi" no aplicativo WhatsApp para +12313593670
 
 Acesse aqui o fluxo de nossa solução do bot [clicando aqui](https://manychat.com/flowPlayerPage?share_hash=790096_7cb8331db3975becf8821033d8b162dce5877770)
 
